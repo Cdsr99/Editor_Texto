@@ -1,0 +1,9 @@
+D:\Programas\Editor_Texto\Editor_Texto\bin\Debug\Editor_Texto.exe.config
+D:\Programas\Editor_Texto\Editor_Texto\bin\Debug\Editor_Texto.exe
+D:\Programas\Editor_Texto\Editor_Texto\bin\Debug\Editor_Texto.pdb
+D:\Programas\Editor_Texto\Editor_Texto\obj\Debug\Editor_Texto.csprojResolveAssemblyReference.cache
+D:\Programas\Editor_Texto\Editor_Texto\obj\Debug\Editor_Texto.Form1.resources
+D:\Programas\Editor_Texto\Editor_Texto\obj\Debug\Editor_Texto.Properties.Resources.resources
+D:\Programas\Editor_Texto\Editor_Texto\obj\Debug\Editor_Texto.csproj.GenerateResource.Cache
+D:\Programas\Editor_Texto\Editor_Texto\obj\Debug\Editor_Texto.exe
+D:\Programas\Editor_Texto\Editor_Texto\obj\Debug\Editor_Texto.pdb
